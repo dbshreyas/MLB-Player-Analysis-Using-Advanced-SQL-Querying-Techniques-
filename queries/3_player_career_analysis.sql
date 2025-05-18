@@ -7,7 +7,7 @@ WITH bd AS
 			CAST(CONCAT(birthYear,"-", birthMonth,"-", birthDay) AS DATE) AS birthdate,
 			debut, finalGame
 		FROM players
-        WHERE birthday IS NOT NULL
+        	WHERE birthday IS NOT NULL
 		)
         
 SELECT *,
