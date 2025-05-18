@@ -4,10 +4,10 @@ WITH decade AS
 			(
 			SELECT *,
 				CONCAT(
-					   FLOOR((yearID -1 )/ 10 ) * 10 + 1,
-                       " - ",
-                       (FLOOR( (yearID-1) / 10) * 10)+10
-                       ) AS decade
+				       FLOOR((yearID -1 )/ 10 ) * 10 + 1,
+                       		       " - ",
+                       		       (FLOOR( (yearID-1) / 10) * 10)+10
+                       		       ) AS decade
 			FROM schools
 			)
 
