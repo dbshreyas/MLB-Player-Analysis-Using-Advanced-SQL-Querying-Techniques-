@@ -33,7 +33,7 @@ The analysis is grouped into four sections:
     
     c. First year when each team’s spending crossed $1B
 
-**3. Player Career Analysis**
+#### 3. Player Career Analysis (https://github.com/dbshreyas/MLB-Player-Analysis-Using-Advanced-SQL-Querying-Techniques-/blob/main/queries/3_player_career_analysis.sql)
 
     a. Career length, age at debut and retirement
     
