@@ -13,14 +13,14 @@ WITH bd AS
 SELECT *,
 	TIMESTAMPDIFF(YEAR, birthdate, debut) AS age_debut,
 	TIMESTAMPDIFF(YEAR, birthdate, finalGame) AS age_final,
-    TIMESTAMPDIFF(YEAR, debut, finalGame) AS career_length
+    	TIMESTAMPDIFF(YEAR, debut, finalGame) AS career_length
 FROM bd
 ORDER BY career_length DESC;
 
 -- 2. What team did each player play on for their starting and ending years?
 
 SELECT  p.playerID, p.debut,
-		s1.yearID, s1.teamID, 
+	s1.yearID, s1.teamID, 
         p.finalGame,
         s2.yearID, s2.teamID
 FROM players AS p
