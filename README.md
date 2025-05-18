@@ -13,41 +13,17 @@ The data includes information on:
 3. Schools: Educational background of players
 4. School Details: Full names and details of institutions
 
-## Problem Statements / Queries Answered
+## Analysis
 
 The analysis is grouped into four sections:
 
 #### 1. School Analysis (https://github.com/dbshreyas/MLB-Player-Analysis-Using-Advanced-SQL-Querying-Techniques-/blob/main/queries/1_school_analysis.sql)
 
-    a. Number of schools producing MLB players per decade
-    
-    b. Top 5 schools producing the most players
-    
-    c. Top 3 schools per decade based on player output
-
 #### 2. Salary Analysis (https://github.com/dbshreyas/MLB-Player-Analysis-Using-Advanced-SQL-Querying-Techniques-/blob/main/queries/2_salary_analysis.sql)
-
-    a. Top 20% of teams by average annual spending
-    
-    b. Cumulative team salary spending over time
-    
-    c. First year when each team’s spending crossed $1B
 
 #### 3. Player Career Analysis (https://github.com/dbshreyas/MLB-Player-Analysis-Using-Advanced-SQL-Querying-Techniques-/blob/main/queries/3_player_career_analysis.sql)
 
-    a. Career length, age at debut and retirement
-    
-    b. Starting and ending teams for each player
-    
-    c. Players who played over a decade with the same team
-
-**4. Player Comparison Analysis**
-
-    a. Players sharing the same birthday
-    
-    b. Batting hand distribution by team (Right, Left, Both)
-    
-    c. Changes in average debut height and weight over time
+#### 4. Player Comparison Analysis (https://github.com/dbshreyas/MLB-Player-Analysis-Using-Advanced-SQL-Querying-Techniques-/blob/main/queries/4_player_comparison_analysis.sql)
 
 ## SQL Skills Demonstrated
 
@@ -58,7 +34,11 @@ The analysis is grouped into four sections:
 5. Joins across multiple tables
 6. Subqueries and derived tables
 
+## Learnings
 
+1. Gained proficiency in translating real-world questions into SQL logic.
+2. Learned how to analyze longitudinal data using SQL.
+3. Practiced advanced SQL techniques used in data analytics roles.
 
 
 
