@@ -25,7 +25,7 @@ The analysis is grouped into four sections:
     
     c. Top 3 schools per decade based on player output
 
-**2. Salary Analysis**
+#### 2. Salary Analysis (https://github.com/dbshreyas/MLB-Player-Analysis-Using-Advanced-SQL-Querying-Techniques-/blob/main/queries/2_salary_analysis.sql)
 
     a. Top 20% of teams by average annual spending
     
