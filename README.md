@@ -17,7 +17,7 @@ The data includes information on:
 
 The analysis is grouped into four sections:
 
-**1. School Analysis**
+#### 1. School Analysis (https://github.com/dbshreyas/MLB-Player-Analysis-Using-Advanced-SQL-Querying-Techniques-/blob/main/queries/1_school_analysis.sql)
 
     a. Number of schools producing MLB players per decade
     
