@@ -1,4 +1,4 @@
-# MLB-Player-Trends-Analysis-Using-Advanced-SQL-Querying-Techniques-
+# MLB-Player-Analysis-Using-Advanced-SQL-Querying-Techniques-
 
 ## Overview
 This project simulates a real-world data analyst internship with Major League Baseball (MLB), leveraging decades of historical player data. Using advanced SQL techniques, the project analyzes player performance trends, salary evolution, player demographics, team associations, and more.
